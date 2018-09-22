@@ -2,7 +2,7 @@
 
 This repo contains the matlab source codes of the Robust Graph-SLAM implementation. There are many robust method but this one is inspired by  a method called [Switchable Constraints](https://www.tu-chemnitz.de/etit/proaut/publications/IROS12-switchableConstraints.pdf) developed by Sünderhauf, N.
 
-For further details of the application, I refer readers to the [report](report/A-Graph-SLAM-For-a-Smartphone.pdf).
+For further details of the application, I refer readers to the [report](report/report.pdf).
 
 ## Abstract
 
